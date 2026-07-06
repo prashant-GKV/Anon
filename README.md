@@ -124,7 +124,7 @@ Contributions, issues, and feature requests are welcome!
 **Prashant Saini**
 
 - GitHub: [@prashant-GKV](https://github.com/prashant-GKV)
-- Email: prashant992723@gmail.com
+- Email: ps0875135@gmail.com
 
 ---
 
